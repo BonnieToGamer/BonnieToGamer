@@ -1,1 +1,1 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BonnieToGamer)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BonnieToGamer?cardType=level-alternate&theme=cobalt&Ring=9C2ADD)](https://git.io/awesome-stats-card)
